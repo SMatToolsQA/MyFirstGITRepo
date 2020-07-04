@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.println("HelloWorld!");
 		
 		System.out.println("I have developed Feature A");
+		System.out.println("And developed Feature B!");
 	}
 
 }
