@@ -9,6 +9,7 @@ public class HelloWorld {
 		System.out.println("And developed Feature B!");
 		
 		System.out.println("We are developing too many features!!!");
+		System.out.println("Member2 added a commit...");
 	}
 
 }
